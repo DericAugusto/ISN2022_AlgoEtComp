@@ -1,5 +1,6 @@
-# ISN2022_AlgoEtComp
+## Université de Lorraine - ISN ENSEM
+# Algorithmique et Complexité
 
-Matériel du cours d'Algorithmique et Complexité de l'ENSEM - Université de Lorraine.
+Matériel du cours du S7 - 2èmme année 2022/2. Professeur : Vincent Chevrier.
 
-S7 - 2èmme année 2022/2. Professeur : Vincent Chevrier.
+
