@@ -1,2 +1,2 @@
 # ISN2022_AlgoEtComp
-Material from the course of Algorithms and Complexity from ENSEM - Université de Lorraine.
+Material from the course of Algorithms and Complexity at ENSEM - Université de Lorraine.
